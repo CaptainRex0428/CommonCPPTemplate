@@ -3,7 +3,7 @@ include "Dependencies.lua"
 
 workspace "CommonCPPTemplate"
 	architecture "x64"
-	startproject ""
+	startproject "EntryProject"
 	configurations
 	{
 		"Debug",

@@ -1,4 +1,4 @@
-project "EXE"
+project "EntryProject"
     kind "ConsoleApp"
     language "C++"
     cppdialect "C++20"
