@@ -41,9 +41,10 @@
 *.dwo
 
 # additive
-.vs
-.sln
+*.vs
+*.sln
 settings/*
 
 # exclude
 !Scripts/*/*.*
+bin
