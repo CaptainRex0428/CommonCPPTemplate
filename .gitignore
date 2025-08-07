@@ -43,6 +43,7 @@
 # additive
 .vs
 .sln
+settings/*/*.*
 
 # exclude
 !Scripts/*/*.*
